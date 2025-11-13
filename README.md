@@ -3,6 +3,8 @@
 A simple **Tic-Tac-Toe Game** built using **HTML, CSS, and JavaScript**.  
 This project is a fun mini-game where two players can play **X and O** turn by turn.
 
+Demo link : [https://ganesh-j-m.github.io/Tic-Toe-game/]
+
 ---
 
 ## 🚀 Features
